@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/
+    - export DEPLOYPATH=/home/user/drpugsleysportspine.com/
     - /bin/cp Index.html $DEPLOYPATH
     - /bin/cp site.css $DEPLOYPATH
