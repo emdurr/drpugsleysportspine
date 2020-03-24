@@ -1,0 +1,85 @@
+@page
+@model PatientInformationModel
+@{
+    ViewData["Title"] = "Patient Information";
+}
+
+<div  class="row">
+    <div id="conditions" class="col-xs-10 col-xs-offset-1">
+        <div class="col-xs-6" style="margin-top: 4rem;">
+            <h3 class="pat-info-header">What to expect on my first visit?</h3>
+            <p>
+                On your first visit you will fill out brief paperwork with the receptionist in the lobby. You can also 
+                fill out the forms before you come and bring them with you to your appointment. <strong>Download the health history form 
+                <a href="~/content/health_history_form.pdf" download>here</a> and 
+                the body form <a href="~/content/Body_form.pdf" download>here</a></strong>
+            </p>
+            <p>
+                After checking in, you will be taken to an exam room in the back. Here Dr Pugsley’s Physician Assistant, 
+                Brian Hess, will gather information about your current condition, past treatments, medical history, and 
+                order any test needed to confirm treatment options. If tests are needed, most can be done in our office or 
+                you may schedule them elsewhere. 
+            </p>
+            <p>
+                After receiving test results, Dr Pugsley and Hess will explain specifics about your diagnoses and condition. 
+                Together, you will discuss several treatment options. Cost, effectiveness, and longevity of treatments will 
+                be considered and fully disclosed. This patient centered process helps you have full confidence in your care, 
+                knowing it is the best fit for your needs and situation. 
+            </p>
+            <p>
+                Treatments are then scheduled and performed at our same location. Most procedures are relatively brief and 
+                patients return home within a few hours. Depending on the chosen treatment plan, follow up, strengthening, 
+                or adjustments will be made.
+            </p>
+            <p>
+                At the end of it all, we are committed to you being satisfied with the care you received. Our top 
+                priority is ensuring our patients are healthy and happy.
+            </p>
+        </div>
+        <div class="col-xs-6">
+            <img src="~/images/doctor-and-stethoscope.jpg"  style="margin-top: 90px; width: 100%;" />
+            <p>Photo by Online Marketing on Unsplash</p>
+        </div>
+    </div>
+
+    @* <div id="procedures" class="col-xs-10 col-xs-offset-1" style="display: none;">
+        <div class="col-xs-10 col-xs-offset-1" style="margin-top: 4rem;">
+            <p>
+                QUOTES from patients
+            </p>
+            <p>
+                XXXXXXXX
+            </p>
+        </div>
+    </div> *@
+    
+    <div id="symptoms" class="col-xs-10 col-xs-offset-1" style="margin-bottom: 45px;">
+        <div class="col-xs-6">
+            <img src="~/images/stethoscope.jpg"  style="margin-top: 55px; width: 90%;" />
+            <a style="background-color:white;color:black;text-decoration:none;padding:4px 6px;font-size:12px;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/marceloleal80?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Marcelo Leal"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Marcelo Leal</span></a>
+        </div>
+        <div class="col-xs-6">
+            <h3 id="symptomsHeader" class="pat-info-header">Why choose Dr Pugsley?</h3>
+            <div class="col-xs-10 col-xs-offset-1" style="margin-top: 1rem;">
+                <h5>Specialized solutions to lifestyle and pain management.</h5>
+                <h5>When you visit our office, you can expect:</h5>
+                <ul>
+                    <li>Friendly and caring staff</li>
+                    <li>Specialized treatment options</li>
+                    <li>Correct diagnoses</li>
+                    <li>Education about condition and options</li>
+                    <li>Fair & honest treatment</li>
+                    <li>Less painful procedures</li>
+                    <li>Less invasive procedures</li>
+                    <li>Treatment involves less medication</li>
+                    <li>Options are less expensive than competitors</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+
+</script>
