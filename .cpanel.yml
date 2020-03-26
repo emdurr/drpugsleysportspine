@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/repositories/drpugsleysportspine/
+    - export DEPLOYPATH=/home/mqejt0cyxlis/repositories/drpugsleysportspine/
     - Startup.cs  $DEPLOYPATH
