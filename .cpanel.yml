@@ -1,6 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/drpugsleysportspine.com/
-    - /bin/cp Index.html $DEPLOYPATH
-    - /bin/cp site.css $DEPLOYPATH
+    - export DEPLOYPATH=/repositories/drpugsleysportspine/
+    - Startup.cs  $DEPLOYPATH
