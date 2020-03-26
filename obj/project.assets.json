@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ericdurr/Documents/PuglseyWebsite/jacobpugsley/jacobpugsley.csproj",
+      "projectUniqueName": "/Users/ericdurr/Documents/drpugsleysportspine/jacobpugsley.csproj",
       "projectName": "jacobpugsley",
-      "projectPath": "/Users/ericdurr/Documents/PuglseyWebsite/jacobpugsley/jacobpugsley.csproj",
+      "projectPath": "/Users/ericdurr/Documents/drpugsleysportspine/jacobpugsley.csproj",
       "packagesPath": "/Users/ericdurr/.nuget/packages/",
-      "outputPath": "/Users/ericdurr/Documents/PuglseyWebsite/jacobpugsley/obj/",
+      "outputPath": "/Users/ericdurr/Documents/drpugsleysportspine/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
