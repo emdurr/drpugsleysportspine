@@ -1,0 +1,13 @@
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/libhostpolicy.dylib
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/libhostfxr.dylib
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley.deps.json
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley.runtimeconfig.json
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley.runtimeconfig.dev.json
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley.dll
+/Users/ericdurr/Documents/drpugsleysportspine/bin/Debug/netcoreapp2.0/osx-x64/jacobpugsley.pdb
+/Users/ericdurr/Documents/drpugsleysportspine/obj/Debug/netcoreapp2.0/osx-x64/jacobpugsley.csproj.CoreCompileInputs.cache
+/Users/ericdurr/Documents/drpugsleysportspine/obj/Debug/netcoreapp2.0/osx-x64/jacobpugsley.AssemblyInfoInputs.cache
+/Users/ericdurr/Documents/drpugsleysportspine/obj/Debug/netcoreapp2.0/osx-x64/jacobpugsley.AssemblyInfo.cs
+/Users/ericdurr/Documents/drpugsleysportspine/obj/Debug/netcoreapp2.0/osx-x64/jacobpugsley.dll
+/Users/ericdurr/Documents/drpugsleysportspine/obj/Debug/netcoreapp2.0/osx-x64/jacobpugsley.pdb
